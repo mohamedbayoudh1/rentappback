@@ -1,4 +1,4 @@
-LoanRise Backend
+web app rentapp Backend
 Overview
 LoanRise Backend is a Spring Boot application developed for  Enterprise, integrating with the API s to manage rent operations and client data. It provides RESTful endpoints for interacting with corebanking, enabling functionalities such as loan creation, approval, disbursement, and client management.
 
